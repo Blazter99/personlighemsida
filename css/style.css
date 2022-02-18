@@ -41,3 +41,45 @@ margin-right:30px;
 display:inline-block;
 padding:10px;
 }
+
+#maincontent {
+display:flex;
+justify-content:space-evenly;
+align-items:center;
+width:100%;
+background-color:rgb(74,74,74);
+height:633px;
+}
+
+.img1 {
+width:30%;
+background-image:url(../images/Caitlyn_11.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+background-position:center;
+border:1px solid grey;
+box-shadow:-5px 5px 8px whitesmoke;
+height:450px;
+}
+
+.img2 {
+width:30%;
+background-image:url(../images/warrior-berserker-lost-ark-online-video-game-tapet-73540_w635.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+background-position:center;
+border:1px solid grey;
+box-shadow: 0px 5px 8px whitesmoke;
+height:450px;
+}
+
+.img3 {
+width:30%;
+background-image:url(../images/warframe-nidus-prime-01.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+background-position:center;
+border:1px solid grey;
+box-shadow: 5px 5px 8px whitesmoke;
+height:450px;
+}
